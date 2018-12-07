@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="ordenes_totales">Ordenes Totales:</string>
+    <string name="productos">Productos:</string>
+</resources>
